@@ -6,8 +6,10 @@ import org.springframework.beans.factory.InitializingBean;
 
 import com.bstek.urule.URulePropertyPlaceholderConfigurer;
 
+import static java.lang.System.setProperties;
+
 /**
- * @author Jacky.gao
+ * @author Jacky.gaoß
  * @since 2016年10月12日
  */
 //@Component
